@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/**
+ * 
+ * @author Angela
+ */
 public class Aciertos {
 
     public static void main(String[] args) {
